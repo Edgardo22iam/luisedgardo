@@ -1,0 +1,22 @@
+<html>
+<head>
+<Title>Luis Edgardo</Title>
+</head>
+<body background="b.1.jpg">
+<center>
+<h1><b><font color="white">Instituto Armando Martinez</font><b><h1>
+</center>
+<center>
+<h2><b><font color="white">Luis Edgardo Hernandez Ayestas</font><b><h2>
+</center>
+<center>
+<a href="https://www.facebook.com/"><Img src ="F.PNG"Width ="50" height="50"></a>
+<a href="https://web.whatsapp.com/"><Img src ="w.PNG"Width ="55" height="55"></a>
+<a href="https://www.instagram.com/"><Img src ="I.PNG"Width ="50" height="50"></a>
+</center>
+<br>
+<center>
+<Img src ="P.2.PNG"Width ="300" height="">
+<center>
+</body>
+</html>
